@@ -1,6 +1,6 @@
 ### Olá meu nome é Jean Henrique de Souza 
 
-E sou estudante de gestão em teccnologia da informação 
+E sou estudante de gestão em tecnologia da informação 
 
 <!--
 **jeancodd/jeancodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
