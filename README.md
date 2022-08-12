@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Jean</h1>
 
-### Olá meu nome é Jean Henrique de Souza 
 
 <div align="center">
   <a href="https://github.com/jeancodd">
